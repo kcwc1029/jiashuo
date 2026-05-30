@@ -121,3 +121,5 @@ print(f"拆包後的字串: {name_unicode}")
 ```
 
 ## [練習題目](./資料形態_practice/練習題目.ipynb)
+
+<p style="text-align: center;">Copyright © 2025 Wei-Cheng Chen</p>

@@ -113,3 +113,5 @@ print(type(x)) # <class 'NoneType'>
 - [Problem. Discord 校園 Wi-Fi 登入](./Conditional_Statement_practices/campus_wifi_login_gradio.py)
 - [Problem. 手機充電提醒](./Conditional_Statement_practices/battery_warning_gradio.py)
 - [Problem. 電商優惠券判斷](./Conditional_Statement_practices/coupon_checker_gradio.py)
+
+<p style="text-align: center;">Copyright © 2026 Wei-Cheng Chen</p>

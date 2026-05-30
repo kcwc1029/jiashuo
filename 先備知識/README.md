@@ -124,3 +124,5 @@ print(a)
 ```
 
 ## [練習題目\_B](./先備知識_practices/練習題目_B.ipynb)
+
+<p style="text-align: center;">Copyright © 2026 Wei-Cheng Chen</p>
