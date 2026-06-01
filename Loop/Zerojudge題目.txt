@@ -1,0 +1,62 @@
+### Python程式設計：for迴圈
+a005: https://zerojudge.tw/ShowProblem?problemid=a005
+
+a059: https://zerojudge.tw/ShowProblem?problemid=a059
+
+a244: https://zerojudge.tw/ShowProblem?problemid=a244
+
+b836: https://zerojudge.tw/ShowProblem?problemid=b836
+
+c123: https://zerojudge.tw/ShowProblem?problemid=c123
+
+b964: https://zerojudge.tw/ShowProblem?problemid=b964
+
+b966: https://zerojudge.tw/ShowProblem?problemid=b966
+
+c013: https://zerojudge.tw/ShowProblem?problemid=c013
+
+c290: https://zerojudge.tw/ShowProblem?problemid=c290
+
+c294: https://zerojudge.tw/ShowProblem?problemid=c294
+
+b759: https://zerojudge.tw/ShowProblem?problemid=b759
+
+a215: https://zerojudge.tw/ShowProblem?problemid=a215
+
+a216: https://zerojudge.tw/ShowProblem?problemid=a216
+
+a224: https://zerojudge.tw/ShowProblem?problemid=a224
+
+a225: https://zerojudge.tw/ShowProblem?problemid=a225
+
+
+### while迴圈
+a024: https://zerojudge.tw/ShowProblem?problemid=a024
+
+a034: https://zerojudge.tw/ShowProblem?problemid=a034
+
+a040: https://zerojudge.tw/ShowProblem?problemid=a040
+
+a065: https://zerojudge.tw/ShowProblem?problemid=a065
+
+a263: https://zerojudge.tw/ShowProblem?problemid=a263
+
+a271: https://zerojudge.tw/ShowProblem?problemid=a271
+
+a291: https://zerojudge.tw/ShowProblem?problemid=a291
+
+a410: https://zerojudge.tw/ShowProblem?problemid=a410
+
+a414: https://zerojudge.tw/ShowProblem?problemid=a414
+
+b558: https://zerojudge.tw/ShowProblem?problemid=b558
+
+b572: https://zerojudge.tw/ShowProblem?problemid=b572
+
+b970: https://zerojudge.tw/ShowProblem?problemid=b970
+
+b971: https://zerojudge.tw/ShowProblem?problemid=b971
+
+d189: https://zerojudge.tw/ShowProblem?problemid=d189
+
+c039: https://zerojudge.tw/ShowProblem?problemid=c039

@@ -109,9 +109,7 @@ print(type(x)) # <class 'NoneType'>
 ## 練習
 
 - [練習題目](./Conditional_Statement_practices/練習題目.ipynb)
-- [Problem. Discord 身分組驗證](./Conditional_Statement_practices/discord_role_check_gradio.py)
-- [Problem. Discord 校園 Wi-Fi 登入](./Conditional_Statement_practices/campus_wifi_login_gradio.py)
-- [Problem. 手機充電提醒](./Conditional_Statement_practices/battery_warning_gradio.py)
-- [Problem. 電商優惠券判斷](./Conditional_Statement_practices/coupon_checker_gradio.py)
-
-<p style="text-align: center;">Copyright © 2026 Wei-Cheng Chen</p>
+- [Problem. 基於gradio做Discord 身分組驗證](./Conditional_Statement_practices/discord_role_check_gradio.py)
+- [Problem. 基於gradio做Discord 校園 Wi-Fi 登入](./Conditional_Statement_practices/campus_wifi_login_gradio.py)
+- [Problem. 基於gradio做手機充電提醒](./Conditional_Statement_practices/battery_warning_gradio.py)
+- [Problem. 基於gradio做電商優惠券判斷](./Conditional_Statement_practices/coupon_checker_gradio.py)
